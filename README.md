@@ -20,7 +20,7 @@
       - 🤖 Exploring <strong>AI Agents</strong> with OpenAI Realtime API, Gemini + Piper/Coqui TTS<br/>
       - 🏆 <strong>ATF Stage 1 Cleared</strong> — Top 4000 / 20,000+ participants<br/>
       - 🥈 <strong>Smart India Hackathon 2024</strong> — 1st Runner-up (Intra-College)<br/>
-      - 🎯 Targeting <strong>Codeforces Expert (1600+)</strong> and <strong>LeetCode 1800+</strong><br/>
+      - 🎯 <strong>Codechef (1600+)</strong> and <strong>LeetCode 1700+</strong><br/>
     </td>
     <td valign="top" width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF" />
