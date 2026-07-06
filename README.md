@@ -14,7 +14,7 @@
 <table border="0" cellpadding="20" cellspacing="20">
   <tr>
     <td valign="top" width="60%">
-      - 🎓 Pursuing <strong>B.Tech CSE at IIIT Bhopal</strong> (3rd Year)<br/>
+      - 🎓 Pursuing <strong>B.Tech CSE at IIIT Bhopal</strong> Final Year<br/>
       - 💻 Building production-level <strong>MERN Stack</strong> apps with JWT, RBAC, MongoDB Aggregation<br/>
       - ☁️ Learning <strong>DevOps</strong> — Docker, Kubernetes, CI/CD, AWS/GCP<br/>
       - 🤖 Exploring <strong>AI Agents</strong> with OpenAI Realtime API, Gemini + Piper/Coqui TTS<br/>
